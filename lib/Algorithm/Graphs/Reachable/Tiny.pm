@@ -7,7 +7,7 @@ use warnings;
 use Carp;
 use Exporter 'import';
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 our @EXPORT_OK = qw(all_reachable);
 
@@ -67,7 +67,7 @@ Algorithm::Graphs::Reachable::Tiny - Compute rechable nodes in a graph.
 
 =head1 VERSION
 
-Version 0.05
+Version 0.06
 
 
 =head1 SYNOPSIS
@@ -226,6 +226,10 @@ L<https://rt.cpan.org/NoAuth/Bugs.html?Dist=Algorithm-Graphs-Reachable-Tiny>
 =item * Search CPAN
 
 L<https://metacpan.org/release/Algorithm-Graphs-Reachable-Tiny>
+
+=item * GitHub Repository
+
+L<https://github.com/AAHAZRED/perl-Algorithm-Graphs-Reachable-Tiny>
 
 =back
 
